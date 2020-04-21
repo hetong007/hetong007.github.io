@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "UA-164131739-1"
 
 
 # Site Author
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Applied Scientist in AWS Shanghai AI Lab"
   location         : "Shanghai, China"
-  employer         : "AWS, Shanghai"
+  employer         : "Amazon Web Servies"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=hV5D8GYAAAAJ&hl=en"
   email            : "hetong007@gmail.com"
