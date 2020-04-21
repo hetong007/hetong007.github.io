@@ -1,5 +1,5 @@
 ---
-title: "Tutorial on the R package for MXNet and XGBoost"
+title: "**AWS re:Invent 2018**: Building State-of-the-Art Computer Vision Models Using MXNet and Gluon"
 collection: talks
 type: "Tutorial"
 permalink: /talks/2018-11-28-reinvent2018-gluoncv

@@ -14,13 +14,9 @@ I'm currently an Applied Scientist in AWS Shanghai AI Lab. I got my Master's deg
 
 - Mar 2020: two papers submitted to ECCV!
 
-# Work Experience
+# Publications
 
-- **Applied Scientist**, Amazon Web Services, Feb 2018 - Present
-- **Embedded Software Developer**, Fortinet, Nov 2016 - Oct 2017
-- **Bioinformatician Intern**, Contextual Genomics, Apr 2016 - Jul 2016
-- **Data Scientist**, Supstat Inc, Mar 2014 - Aug 2014
-- **Algorithm Engineer Intern**, Douban, Jul 2013 - Oct 2013
+See [Publications](https://hetong007.github.io/publications/).
 
 # Open Source Projects
 
@@ -37,6 +33,14 @@ I maintain the following R package on CRAN:
 - [SwarmSVM](https://cran.r-project.org/web//packages/SwarmSVM/index.html)
 - [rLTP](https://cran.r-project.org/web//packages/rLTP/index.html)
 - [pullword](https://cran.r-project.org/web//packages/pullword/index.html)
+
+# Work Experience
+
+- **Applied Scientist**, Amazon Web Services, Feb 2018 - Present
+- **Embedded Software Developer**, Fortinet, Nov 2016 - Oct 2017
+- **Bioinformatician Intern**, Contextual Genomics, Apr 2016 - Jul 2016
+- **Data Scientist**, Supstat Inc, Mar 2014 - Aug 2014
+- **Algorithm Engineer Intern**, Douban, Jul 2013 - Oct 2013
 
 # Education
 

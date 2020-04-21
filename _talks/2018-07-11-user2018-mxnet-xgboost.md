@@ -1,5 +1,5 @@
 ---
-title: "Tutorial on the R package for MXNet and XGBoost"
+title: "**useR! 2018**: Tutorial on the R package for MXNet and XGBoost"
 collection: talks
 type: "Tutorial"
 permalink: /talks/2018-07-11-user2018-mxnet-xgboost
