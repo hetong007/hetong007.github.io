@@ -3,9 +3,9 @@ title: "Workshop on Deep Learning for Computer Vision, and GluonCV"
 collection: talks
 type: "Workshop"
 permalink: /talks/2018-12-17-tokyo-gluoncv
-venue: ""
+venue: "Tokyo"
 date: 2018-11-28
-location: "Tokyo, Japan"
+location: "Japan"
 ---
 
 In this tutorial I firstly introduced GluonCV, then I gave tutorials on the deep learning techniques for image classification, object detection and semantic segmentation respectively.
