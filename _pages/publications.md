@@ -24,6 +24,10 @@ author_profile: true
 - Guo, Jian, He He, **Tong He**, Leonard Lausen, Mu Li, Haibin Lin, Xingjian Shi et al. "[Gluoncv and gluonnlp: Deep learning in computer vision and natural language processing.](http://www.jmlr.org/papers/volume21/19-429/19-429.pdf)" Journal of Machine Learning Research 21, no. 23 (2020): 1-7.
 - Chen, Tianqi, **Tong He**, Michael Benesty, Vadim Khotilovich, and Yuan Tang. "[Xgboost: extreme gradient boosting.](http://cran.fhcrc.org/web/packages/xgboost/vignettes/xgboost.pdf)" R package.
 
+# Books
+
+- Peter Dalgaard. （译）郝智恒, **何通**, 邓一硕, 刘旭华. 《[R语言统计入门(第2版)](https://book.douban.com/subject/25885941/)》.
+
 # Patents
 
 - Samuel Aparicio, Sohrab SHAH, Rosalia AGUIRRE-HERNANDEZ, Leah PRENTICE, Patrick Franchini, Jaswinder Singh KHATTRA, **Tong HE**. "[Molecular quality assurance methods for use in sequencing.](https://patents.google.com/patent/WO2017051387A1/en)".
