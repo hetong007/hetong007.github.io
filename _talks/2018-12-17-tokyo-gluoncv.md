@@ -1,9 +1,9 @@
 ---
-title: "Tutorial on Deep Learning for Computer Vision, and GluonCV"
+title: "Workshop on Deep Learning for Computer Vision, and GluonCV"
 collection: talks
-type: "Talk"
+type: "Workshop"
 permalink: /talks/2018-12-17-tokyo-gluoncv
-venue: "Tokyo, Japan"
+venue: ""
 date: 2018-11-28
 location: "Tokyo, Japan"
 ---

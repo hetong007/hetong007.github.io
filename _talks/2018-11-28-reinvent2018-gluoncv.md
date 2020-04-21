@@ -1,9 +1,9 @@
 ---
 title: "Tutorial on the R package for MXNet and XGBoost"
 collection: talks
-type: "Talk"
+type: "Tutorial"
 permalink: /talks/2018-11-28-reinvent2018-gluoncv
-venue: "Las Vegas, USA"
+venue: ""
 date: 2018-11-28
 location: "Las Vegas, USA"
 ---

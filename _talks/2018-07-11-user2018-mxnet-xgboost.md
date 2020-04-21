@@ -1,7 +1,7 @@
 ---
 title: "Tutorial on the R package for MXNet and XGBoost"
 collection: talks
-type: "Talk"
+type: "Tutorial"
 permalink: /talks/2018-07-11-user2018-mxnet-xgboost
 venue: "Brisbane convention & exhibition center."
 date: 2018-07-11
