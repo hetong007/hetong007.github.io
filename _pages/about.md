@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an Applied Scientist in AWS Shanghai AI Lab. I got my Master's degree in Computing Science from [Simon Fraser University](https://www.sfu.ca/) in 2016, under the supervision of [Prof. Martin Ester](https://www.cs.sfu.ca/~ester/). I worked in the Palo Alto for AWS from Feb. 2018, and moved to Shanghai since Sep. 2019. My research interests are mainly on computer vision and machine learning.
+I'm currently an Applied Scientist in AWS Shanghai AI Lab. I got my Master's degree in Computing Science from [Simon Fraser University](https://www.sfu.ca/) in 2016, under the supervision of [Prof. Martin Ester](https://www.cs.sfu.ca/~ester/). I worked for AWS in Palo Alto from Feb. 2018, and moved to Shanghai since Sep. 2019. My research interests are mainly on computer vision and machine learning.
 
 # News
 
