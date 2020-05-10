@@ -45,7 +45,7 @@ I maintain the following R package on CRAN:
 # Education
 
 - M.S. in Computer Science, School of Computing Science, Simon Fraser University, 2016
-- B.S. in Statistics, Department of Mathematics and ComputerScience, Sun Yat-Sen University, 2013
+- B.S. in Statistics, Department of Mathematics and Computer Science, Sun Yat-Sen University, 2013
 
 # Selected Awards
 
