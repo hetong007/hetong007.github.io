@@ -9,6 +9,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 {% include base_path %}
 
+- Zhu, Yi, Zhongyue Zhang, Chongruo Wu, Zhi Zhang, **Tong He**, Hang Zhang, R. Manmatha, Mu Li, and Alexander Smola. "[Improving Semantic Segmentation via Self-Training.](https://arxiv.org/abs/2004.14960)" arXiv preprint arXiv:2004.14960 (2020).
 - Hang Zhang, Chongruo Wu, Zhongyue Zhang, Yi Zhu, Zhi Zhang, Haibin Lin, Yue Sun, **Tong He**, Jonas Mueller, R. Manmatha, Mu Li, Alexander Smola. "[ResNeSt: Split-Attention Networks.](https://arxiv.org/abs/2004.08955)" arXiv preprint arXiv:2004.08955 (2020).
 - Lin, Haibin, Hang Zhang, Yifei Ma, **Tong He**, Zhi Zhang, Sheng Zha, and Mu Li. "[Dynamic mini-batch SGD for elastic distributed training: learning in the limbo of resources.](https://arxiv.org/abs/1904.12043)" arXiv preprint arXiv:1904.12043 (2019).
 - Zhang, Zhi, **Tong He**, Hang Zhang, Zhongyuan Zhang, Junyuan Xie, and Mu Li. "[Bag of freebies for training object detection neural networks.](https://arxiv.org/abs/1902.04103)" arXiv preprint arXiv:1902.04103 (2019).
