@@ -12,7 +12,9 @@ I'm currently an Applied Scientist in AWS Shanghai AI Lab. I got my Master's deg
 
 # News
 
-- Mar 2020: two papers submitted to ECCV!
+- Nov 2020: one paper submitted to CVPR 2021
+- Oct 2020: one paper submitted to ICLR 2021
+- Mar 2020: two papers submitted to ECCV 2020.
 
 # Publications
 
@@ -22,9 +24,9 @@ See [Publications](https://hetong007.github.io/publications/).
 
 I'm a committer in the following open source projects:
 
+- [Deep Graph Library](https://www.dgl.ai/)
 - [GluonCV](https://gluon-cv.mxnet.io/)
 - [Apache MXNet](https://mxnet.apache.org/)
-- [Deep Graph Library](https://www.dgl.ai/)
 - [XGBoost](https://xgboost.ai/)
 
 I maintain the following R package on CRAN:
