@@ -12,9 +12,7 @@ I'm currently an Applied Scientist in AWS Shanghai AI Lab. I got my Master's deg
 
 # News
 
-- Nov 2020: one paper submitted to CVPR 2021
-- Oct 2020: one paper submitted to ICLR 2021
-- Mar 2020: two papers submitted to ECCV 2020.
+- Jul 2021: Our paper **Learning Hierarchical Graph Neural Networks for Image Clustering**([paper](https://arxiv.org/abs/2107.01319), [code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/hilander)) accepted by ICCV 2021!
 
 # Publications
 
