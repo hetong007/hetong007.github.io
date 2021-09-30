@@ -12,7 +12,7 @@ I'm currently an Applied Scientist in AWS Shanghai AI Lab. I worked for AWS in P
 
 # News
 
-- Sep 2021: Our papers *GRIN: Generative Relation and Intention Network for Multi-agent Trajectory Prediction* and *Progressive Coordinate Transforms for Monocular 3D Object Detection* are accepted by NeurIPS 2021!
+- Sep 2021: Our papers **GRIN: Generative Relation and Intention Network for Multi-agent Trajectory Prediction** and **Progressive Coordinate Transforms for Monocular 3D Object Detection** are accepted by NeurIPS 2021!
 
 - Jul 2021: Our paper **Learning Hierarchical Graph Neural Networks for Image Clustering**([paper](https://arxiv.org/abs/2107.01319), [code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/hilander)) is accepted by ICCV 2021!
 
