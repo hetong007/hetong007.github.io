@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an Applied Scientist in AWS Shanghai AI Lab. I got my Master's degree in Computing Science from [Simon Fraser University](https://www.sfu.ca/) in 2016, under the supervision of [Prof. Martin Ester](https://www.cs.sfu.ca/~ester/). I worked for AWS in Palo Alto from Feb. 2018, and moved to Shanghai since Sep. 2019. My research interests are mainly on computer vision and machine learning.
+I'm currently an Applied Scientist in AWS Shanghai AI Lab. I worked for AWS in Palo Alto from Feb. 2018, and moved to Shanghai since Sep. 2019. I got my Master's degree in Computing Science from [Simon Fraser University](https://www.sfu.ca/) in 2016, under the supervision of [Prof. Martin Ester](https://www.cs.sfu.ca/~ester/). My research interests are mainly on computer vision and machine learning.
 
 # News
 
-- Jul 2021: Our paper **Learning Hierarchical Graph Neural Networks for Image Clustering**([paper](https://arxiv.org/abs/2107.01319), [code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/hilander)) accepted by ICCV 2021!
+- Sep 2021: Our papers *GRIN: Generative Relation and Intention Network for Multi-agent Trajectory Prediction* and *Progressive Coordinate Transforms for Monocular 3D Object Detection* are accepted by NeurIPS 2021!
+
+- Jul 2021: Our paper **Learning Hierarchical Graph Neural Networks for Image Clustering**([paper](https://arxiv.org/abs/2107.01319), [code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/hilander)) is accepted by ICCV 2021!
 
 # Publications
 
