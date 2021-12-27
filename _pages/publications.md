@@ -9,6 +9,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 {% include base_path %}
 
+- Li, Longyuan, Jian Yao, Li Wenliang, **Tong He**, Tianjun Xiao, Junchi Yan, David Wipf, and Zheng Zhang. "[GRIN: Generative Relation and Intention Network for Multi-agent Trajectory Prediction.](https://proceedings.neurips.cc/paper/2021/hash/e3670ce0c315396e4836d7024abcf3dd-Abstract.html)" Advances in Neural Information Processing Systems 34 (2021).
+- Wang, Li, Li Zhang, Yi Zhu, Zhi Zhang, **Tong He**, Mu Li, and Xiangyang Xue. "[Progressive Coordinate Transforms for Monocular 3D Object Detection.](https://proceedings.neurips.cc/paper/2021/hash/6f3ef77ac0e3619e98159e9b6febf557-Abstract.html)" Advances in Neural Information Processing Systems 34 (2021).
 - Xing, Yifan, **Tong He**, Tianjun Xiao, Yongxin Wang, Yuanjun Xiong, Wei Xia, David Wipf Paul, Zheng Zhang, and Stefano Soatto. "[Learning Hierarchical Graph Neural Networks for Image Clustering.](https://arxiv.org/abs/2107.01319)" The International Conference on Computer Vision, To Appear, 2021.
 - Zhu, Yi, Zhongyue Zhang, Chongruo Wu, Zhi Zhang, **Tong He**, Hang Zhang, R. Manmatha, Mu Li, and Alexander Smola. "[Improving Semantic Segmentation via Self-Training.](https://arxiv.org/abs/2004.14960)" arXiv preprint arXiv:2004.14960 (2020).
 - Hang Zhang, Chongruo Wu, Zhongyue Zhang, Yi Zhu, Zhi Zhang, Haibin Lin, Yue Sun, **Tong He**, Jonas Mueller, R. Manmatha, Mu Li, Alexander Smola. "[ResNeSt: Split-Attention Networks.](https://arxiv.org/abs/2004.08955)" arXiv preprint arXiv:2004.08955 (2020).
