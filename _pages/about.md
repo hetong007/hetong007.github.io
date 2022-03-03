@@ -30,7 +30,7 @@ I'm a committer in the following open source projects:
 
 - [Deep Graph Library](https://www.dgl.ai/) / [GluonCV](https://gluon-cv.mxnet.io/) / [Apache MXNet](https://mxnet.apache.org/) / [XGBoost](https://xgboost.ai/)
 
-I maintained the following R package on CRAN:
+I maintained/created the following R package on CRAN:
 
 - [xgboost](https://cran.r-project.org/web//packages/xgboost/index.html) / [SwarmSVM](https://cran.r-project.org/web//packages/SwarmSVM/index.html) / [rLTP](https://cran.r-project.org/web//packages/rLTP/index.html) / [pullword](https://cran.r-project.org/web//packages/pullword/index.html)
 
