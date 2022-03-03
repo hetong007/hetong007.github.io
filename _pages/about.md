@@ -12,6 +12,8 @@ I'm currently a Senior Applied Scientist in AWS Shanghai AI Lab. I worked for AW
 
 # News
 
+- Jan 2022: Our paper **Graph-Enhanced Exploration for Goal-oriented Reinforcement Learning**([paper](https://openreview.net/forum?id=rlYiXFdSy70)) is accepted by ICLR 2022!
+
 - Dec 2021: Our paper **Improving Semantic Segmentation via Efficient Self-Training**([paper](https://ieeexplore.ieee.org/document/9663011)) is accepted by TPAMI!
 
 - Sep 2021: Our papers **GRIN: Generative Relation and Intention Network for Multi-agent Trajectory Prediction**([paper](https://proceedings.neurips.cc/paper/2021/hash/e3670ce0c315396e4836d7024abcf3dd-Abstract.html), [code](https://github.com/longyuanli/GRIN_NeurIPS21)) and **Progressive Coordinate Transforms for Monocular 3D Object Detection**([paper](https://proceedings.neurips.cc/paper/2021/hash/6f3ef77ac0e3619e98159e9b6febf557-Abstract.html), [code](https://github.com/amazon-research/progressive-coordinate-transforms)) are accepted by NeurIPS 2021!
@@ -26,17 +28,11 @@ See [Publications](https://hetong007.github.io/publications/).
 
 I'm a committer in the following open source projects:
 
-- [Deep Graph Library](https://www.dgl.ai/)
-- [GluonCV](https://gluon-cv.mxnet.io/)
-- [Apache MXNet](https://mxnet.apache.org/)
-- [XGBoost](https://xgboost.ai/)
+- [Deep Graph Library](https://www.dgl.ai/) / [GluonCV](https://gluon-cv.mxnet.io/) / [Apache MXNet](https://mxnet.apache.org/) / [XGBoost](https://xgboost.ai/)
 
-I maintain the following R package on CRAN:
+I maintained the following R package on CRAN:
 
-- [xgboost](https://cran.r-project.org/web//packages/xgboost/index.html)
-- [SwarmSVM](https://cran.r-project.org/web//packages/SwarmSVM/index.html)
-- [rLTP](https://cran.r-project.org/web//packages/rLTP/index.html)
-- [pullword](https://cran.r-project.org/web//packages/pullword/index.html)
+- [xgboost](https://cran.r-project.org/web//packages/xgboost/index.html) / [SwarmSVM](https://cran.r-project.org/web//packages/SwarmSVM/index.html) / [rLTP](https://cran.r-project.org/web//packages/rLTP/index.html) / [pullword](https://cran.r-project.org/web//packages/pullword/index.html)
 
 # Work Experience
 
