@@ -12,8 +12,6 @@ I'm currently a Senior Applied Scientist in AWS Shanghai AI Lab. I worked for AW
 
 # News
 
-- Jan 2022: Our paper **Graph-Enhanced Exploration for Goal-oriented Reinforcement Learning**([paper](https://openreview.net/forum?id=rlYiXFdSy70)) is accepted by ICLR 2022!
-
 - Dec 2021: Our paper **Improving Semantic Segmentation via Efficient Self-Training**([paper](https://ieeexplore.ieee.org/document/9663011)) is accepted by TPAMI!
 
 - Sep 2021: Our papers **GRIN: Generative Relation and Intention Network for Multi-agent Trajectory Prediction**([paper](https://proceedings.neurips.cc/paper/2021/hash/e3670ce0c315396e4836d7024abcf3dd-Abstract.html), [code](https://github.com/longyuanli/GRIN_NeurIPS21)) and **Progressive Coordinate Transforms for Monocular 3D Object Detection**([paper](https://proceedings.neurips.cc/paper/2021/hash/6f3ef77ac0e3619e98159e9b6febf557-Abstract.html), [code](https://github.com/amazon-research/progressive-coordinate-transforms)) are accepted by NeurIPS 2021!
