@@ -12,11 +12,11 @@ I'm currently a Senior Applied Scientist in AWS Shanghai AI Lab. I worked for AW
 
 # News
 
+- Jun 2022: Our paper **PSS: Progressive Sample Selection for Open-World Visual Representation Learning**([code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/hilander/PSS)) is accepcted by ECCV 2022!
+
 - Dec 2021: Our paper **Improving Semantic Segmentation via Efficient Self-Training**([paper](https://ieeexplore.ieee.org/document/9663011)) is accepted by TPAMI!
 
 - Sep 2021: Our papers **GRIN: Generative Relation and Intention Network for Multi-agent Trajectory Prediction**([paper](https://proceedings.neurips.cc/paper/2021/hash/e3670ce0c315396e4836d7024abcf3dd-Abstract.html), [code](https://github.com/longyuanli/GRIN_NeurIPS21)) and **Progressive Coordinate Transforms for Monocular 3D Object Detection**([paper](https://proceedings.neurips.cc/paper/2021/hash/6f3ef77ac0e3619e98159e9b6febf557-Abstract.html), [code](https://github.com/amazon-research/progressive-coordinate-transforms)) are accepted by NeurIPS 2021!
-
-- Jul 2021: Our paper **Learning Hierarchical Graph Neural Networks for Image Clustering**([paper](https://arxiv.org/abs/2107.01319), [code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/hilander)) is accepted by ICCV 2021!
 
 # Publications
 
