@@ -12,6 +12,8 @@ I'm currently a Senior Applied Scientist in AWS Shanghai AI Lab. I worked for AW
 
 # News
 
+- Sep 2022: Our papers **Learning Manifold Dimensions with Conditional Variational Autoencoders** and **Self-supervised Amodal Video Object Segmentation** are accepted by NeurIPS 2022!
+
 - Jun 2022: Our paper **PSS: Progressive Sample Selection for Open-World Visual Representation Learning**([code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/hilander/PSS)) is accepcted by ECCV 2022!
 
 - Dec 2021: Our paper **Improving Semantic Segmentation via Efficient Self-Training**([paper](https://ieeexplore.ieee.org/document/9663011)) is accepted by TPAMI!
