@@ -12,17 +12,17 @@ I'm currently a Senior Applied Scientist in AWS Shanghai AI Lab. I worked for AW
 
 # News
 
-- Sep 2022: Our papers **Learning Manifold Dimensions with Conditional Variational Autoencoders** and **Self-supervised Amodal Video Object Segmentation** are accepted by NeurIPS 2022!
+- Jul 2023: Our papers **Unsupervised Open-Vocabulary Object Localization in Videos**, **Object-centric Multiple Object Tracking**, **Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-centric Representation**, and **Coarse-to-Fine Amodal Segmentation with Shape Prior** are accepted by ICCV 2023!
 
-- Jun 2022: Our paper **PSS: Progressive Sample Selection for Open-World Visual Representation Learning**([code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/hilander/PSS)) is accepcted by ECCV 2022!
+- Jan 2023: Our paper **Bridging the Gap to Real-World Object-Centric Learning**([paper](https://openreview.net/forum?id=b9tUk-f_aG)) is accepted by ICLR 2023!
 
-- Dec 2021: Our paper **Improving Semantic Segmentation via Efficient Self-Training**([paper](https://ieeexplore.ieee.org/document/9663011)) is accepted by TPAMI!
+- Sep 2022: Our papers **Learning Manifold Dimensions with Conditional Variational Autoencoders**([paper](https://openreview.net/forum?id=Lvlxq_H96lI)) and **Self-supervised Amodal Video Object Segmentation**([paper](https://openreview.net/pdf?id=wlqb_RfSrKh)) are accepted by NeurIPS 2022!
 
-- Sep 2021: Our papers **GRIN: Generative Relation and Intention Network for Multi-agent Trajectory Prediction**([paper](https://proceedings.neurips.cc/paper/2021/hash/e3670ce0c315396e4836d7024abcf3dd-Abstract.html), [code](https://github.com/longyuanli/GRIN_NeurIPS21)) and **Progressive Coordinate Transforms for Monocular 3D Object Detection**([paper](https://proceedings.neurips.cc/paper/2021/hash/6f3ef77ac0e3619e98159e9b6febf557-Abstract.html), [code](https://github.com/amazon-research/progressive-coordinate-transforms)) are accepted by NeurIPS 2021!
+- Jun 2022: Our paper **PSS: Progressive Sample Selection for Open-World Visual Representation Learning**([paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910269.pdf), [code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/hilander/PSS)) is accepcted by ECCV 2022!
 
 # Publications
 
-See [Publications](https://hetong007.github.io/publications/).
+Please refer to [Publications](https://hetong007.github.io/publications/).
 
 # Open Source Projects
 
