@@ -12,7 +12,7 @@ I'm currently a Senior Applied Scientist in AWS Shanghai AI Lab. I worked for AW
 
 # News
 
-- Jul 2023: Our papers **Unsupervised Open-Vocabulary Object Localization in Videos**, **Object-centric Multiple Object Tracking**, **Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-centric Representation**, and **Coarse-to-Fine Amodal Segmentation with Shape Prior** are accepted by ICCV 2023!
+- Jul 2023: We have four papers, **Unsupervised Open-Vocabulary Object Localization in Videos**, **Object-centric Multiple Object Tracking**, **Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-centric Representation**, and **Coarse-to-Fine Amodal Segmentation with Shape Prior**, accepted by ICCV 2023!
 
 - Jan 2023: Our paper **Bridging the Gap to Real-World Object-Centric Learning**([paper](https://openreview.net/forum?id=b9tUk-f_aG)) is accepted by ICLR 2023!
 
