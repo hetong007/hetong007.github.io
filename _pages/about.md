@@ -16,11 +16,11 @@ I'm currently a Senior Applied Scientist in AWS Shanghai AI Lab. I worked for AW
 
 - Jul 2023: We have four papers, **Unsupervised Open-Vocabulary Object Localization in Videos**([paper](https://arxiv.org/abs/2309.09858)), **Object-centric Multiple Object Tracking**([paper](https://arxiv.org/abs/2309.00233), [code](https://github.com/amazon-science/object-centric-multiple-object-tracking)), **Coarse-to-Fine Amodal Segmentation with Shape Prior**,([paper](https://arxiv.org/abs/2308.16825), [code](https://github.com/JianxGao/C2F-Seg)), and **Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-centric Representation**, accepted by ICCV 2023!
 
+- May 2023: Our paper **LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation**([paper](https://arxiv.org/abs/2302.08908), [code](https://github.com/cplusx/layout_diffuse)) is accepted by the AI4CC workshop in CVPR 2023!
+
 - Jan 2023: Our paper **Bridging the Gap to Real-World Object-Centric Learning**([paper](https://openreview.net/forum?id=b9tUk-f_aG), [code](https://github.com/amazon-science/object-centric-learning-framework)) is accepted by ICLR 2023!
 
 - Sep 2022: Our papers **Learning Manifold Dimensions with Conditional Variational Autoencoders**([paper](https://openreview.net/forum?id=Lvlxq_H96lI), [code](https://github.com/zhengyjzoe/manifold-dimensions-cvae)) and **Self-supervised Amodal Video Object Segmentation**([paper](https://openreview.net/pdf?id=wlqb_RfSrKh)) are accepted by NeurIPS 2022!
-
-- Jun 2022: Our paper **PSS: Progressive Sample Selection for Open-World Visual Representation Learning**([paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910269.pdf), [code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/hilander/PSS)) is accepcted by ECCV 2022!
 
 # Publications
 
