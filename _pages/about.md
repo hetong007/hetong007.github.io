@@ -12,7 +12,7 @@ I'm currently a Senior Applied Scientist in AWS Shanghai AI Lab. I worked for AW
 
 # News
 
-- Sep 2023: Our paper **Compatible Transformer for Irregularly Sampled Multivariate Time Series** is accepted by ICDM 2023!
+- Sep 2023: Our paper **Compatible Transformer for Irregularly Sampled Multivariate Time Series**([paper](https://arxiv.org/abs/2310.11022), [code](https://github.com/MediaBrain-SJTU/CoFormer)) is accepted by ICDM 2023!
 
 - Jul 2023: We have four papers, **Unsupervised Open-Vocabulary Object Localization in Videos**([paper](https://arxiv.org/abs/2309.09858)), **Object-centric Multiple Object Tracking**([paper](https://arxiv.org/abs/2309.00233), [code](https://github.com/amazon-science/object-centric-multiple-object-tracking)), **Coarse-to-Fine Amodal Segmentation with Shape Prior**,([paper](https://arxiv.org/abs/2308.16825), [code](https://github.com/JianxGao/C2F-Seg)), and **Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-centric Representation**([paper](https://arxiv.org/abs/2309.13248), [code](https://github.com/kfan21/EoRaS)), accepted by ICCV 2023!
 
