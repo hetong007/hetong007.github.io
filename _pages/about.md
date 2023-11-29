@@ -20,8 +20,6 @@ I'm currently a Senior Applied Scientist in AWS Shanghai AI Lab. I worked for AW
 
 - Jan 2023: Our paper **Bridging the Gap to Real-World Object-Centric Learning**([paper](https://openreview.net/forum?id=b9tUk-f_aG), [code](https://github.com/amazon-science/object-centric-learning-framework)) is accepted by ICLR 2023!
 
-- Sep 2022: Our papers **Learning Manifold Dimensions with Conditional Variational Autoencoders**([paper](https://openreview.net/forum?id=Lvlxq_H96lI), [code](https://github.com/zhengyjzoe/manifold-dimensions-cvae)) and **Self-supervised Amodal Video Object Segmentation**([paper](https://openreview.net/pdf?id=wlqb_RfSrKh)) are accepted by NeurIPS 2022!
-
 # Publications
 
 Please refer to [Publications](https://hetong007.github.io/publications/).
