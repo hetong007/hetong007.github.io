@@ -51,3 +51,7 @@ I maintained/created the following R package on CRAN:
 
 - [John M. Chambers Statistical Software Award](http://stat-computing.org/awards/jmc/winners.html), ASA, 2016
 - [Special High Energy Physics meets Machine Learning Award](https://atlas.cern/updates/atlas-news/machine-learning-wins-higgs-challenge), CERN, 2014
+
+# Trivia
+
+- There are at least two other researchers named "Tong He" [[1](https://scholar.google.com.hk/citations?user=kWADCMUAAAAJ&hl=zh-CN)], [[2](https://scholar.google.com/citations?user=v6o-fksAAAAJ&hl=zh-CN)], although in different Chinese characters, in the domain of Computer Vision. Please check their profiles if you got confused because some automated systems mistakenly assigned their works to my profile.

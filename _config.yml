@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tong He"
 title_separator          : "-"
-name                     : &name "Tong He"
+name                     : &name "Tong He (何通)"
 description              : &description "Senior Applied Scientist, AWS Shanghai AI Lab"
 url                      : https://hetong007.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
