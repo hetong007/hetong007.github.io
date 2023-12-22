@@ -54,4 +54,4 @@ I maintained/created the following R package on CRAN:
 
 # Trivia
 
-- There are at least two other researchers named "Tong He" [[1](https://scholar.google.com.hk/citations?user=kWADCMUAAAAJ&hl=zh-CN)], [[2](https://scholar.google.com/citations?user=v6o-fksAAAAJ&hl=zh-CN)], although in different Chinese characters, in the domain of Computer Vision. Please check their profiles if you got confused because some automated systems mistakenly assigned their works to my profile.
+- There are at least two other researchers named "Tong He" [[1](https://scholar.google.com.hk/citations?user=kWADCMUAAAAJ&hl=zh-CN)], [[2](https://scholar.google.com/citations?user=v6o-fksAAAAJ&hl=zh-CN)], although possibly in different Chinese characters, in the domain of Computer Vision. Please check their profiles if you got confused because some automated systems mistakenly assigned their works to my profile.
