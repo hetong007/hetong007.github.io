@@ -12,13 +12,13 @@ I'm currently a Senior Applied Scientist in AWS Shanghai AI Lab. I worked for AW
 
 # News
 
+- Jan 2023: Our papers, **Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model**([paper](https://openreview.net/forum?id=ezscMer8L0)) and **Consistent Video-to-Video Transfer Using Synthetic Dataset**([paper](https://openreview.net/forum?id=IoKRezZMxF)), are accepted by ICLR 2024!
+
 - Sep 2023: Our paper **Compatible Transformer for Irregularly Sampled Multivariate Time Series**([paper](https://arxiv.org/abs/2310.11022), [code](https://github.com/MediaBrain-SJTU/CoFormer)) is accepted by ICDM 2023!
 
 - Jul 2023: We have four papers, **Unsupervised Open-Vocabulary Object Localization in Videos**([paper](https://arxiv.org/abs/2309.09858)), **Object-centric Multiple Object Tracking**([paper](https://arxiv.org/abs/2309.00233), [code](https://github.com/amazon-science/object-centric-multiple-object-tracking)), **Coarse-to-Fine Amodal Segmentation with Shape Prior**,([paper](https://arxiv.org/abs/2308.16825), [code](https://github.com/JianxGao/C2F-Seg)), and **Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-centric Representation**([paper](https://arxiv.org/abs/2309.13248), [code](https://github.com/kfan21/EoRaS)), accepted by ICCV 2023!
 
 - May 2023: Our paper **LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation**([paper](https://arxiv.org/abs/2302.08908), [code](https://github.com/cplusx/layout_diffuse)) is accepted by the AI4CC workshop in CVPR 2023!
-
-- Jan 2023: Our paper **Bridging the Gap to Real-World Object-Centric Learning**([paper](https://openreview.net/forum?id=b9tUk-f_aG), [code](https://github.com/amazon-science/object-centric-learning-framework)) is accepted by ICLR 2023!
 
 # Publications
 
