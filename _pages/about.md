@@ -16,7 +16,7 @@ I'm currently a Senior Applied Scientist in AWS Shanghai AI Lab. I worked for AW
 
 - Feb 2024: Our papers, **Adaptive Slot Attention: Object Discovery with Dynamic Slot Number**([paper](https://openreview.net/forum?id=EaLfdBPlIh)) and **Learning for Transductive Threshold Calibration in Open-World Recognition**([paper](https://openreview.net/forum?id=ID1aMR5U8v)) are accepted by CVPR 2024!
 
-- Jan 2024: Our papers, **Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model**([paper](https://openreview.net/forum?id=ezscMer8L0)) and **Consistent Video-to-Video Transfer Using Synthetic Dataset**([paper](https://openreview.net/forum?id=IoKRezZMxF)), are accepted by ICLR 2024! Besides, our paper **Graph Machine Learning through the Lens of Bilevel Optimization**([paper](https://arxiv.org/abs/2403.04763)) is accepted by AISTATS 2024!
+- Jan 2024: Our papers, **Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model**([paper](https://openreview.net/forum?id=ezscMer8L0)) and **Consistent Video-to-Video Transfer Using Synthetic Dataset**([paper](https://openreview.net/forum?id=IoKRezZMxF)), are accepted by ICLR 2024! Besides, our paper **BloomGML: Graph Machine Learning through the Lens of Bilevel Optimization**([paper](https://arxiv.org/abs/2403.04763)) is accepted by AISTATS 2024!
 
 - Sep 2023: Our paper **Compatible Transformer for Irregularly Sampled Multivariate Time Series**([paper](https://arxiv.org/abs/2310.11022), [code](https://github.com/MediaBrain-SJTU/CoFormer)) is accepted by ICDM 2023!
 
