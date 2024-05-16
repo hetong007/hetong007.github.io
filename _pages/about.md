@@ -12,15 +12,15 @@ I'm currently a Senior Applied Scientist in AWS Shanghai AI Lab. I worked for AW
 
 # News
 
-- Feb 2024: Our papers, **Adaptive Slot Attention: Object Discovery with Dynamic Slot Number** and **Learning for Transductive Threshold Calibration in Open-World Recognition** are accepted by CVPR 2024!
+- May 2024: Our paper, **CaMML: Context-Aware Multimodal Learner for Large Model**([paper](https://arxiv.org/abs/2401.03149)) is accepted by ACL 2024!
 
-- Jan 2024: Our papers, **Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model**([paper](https://openreview.net/forum?id=ezscMer8L0)) and **Consistent Video-to-Video Transfer Using Synthetic Dataset**([paper](https://openreview.net/forum?id=IoKRezZMxF)), are accepted by ICLR 2024! Besides, our paper **Graph Machine Learning through the Lens of Bilevel Optimization** is accepted by AISTATS 2024!
+- Feb 2024: Our papers, **Adaptive Slot Attention: Object Discovery with Dynamic Slot Number**([paper](https://openreview.net/forum?id=EaLfdBPlIh)) and **Learning for Transductive Threshold Calibration in Open-World Recognition**([paper](https://openreview.net/forum?id=ID1aMR5U8v)) are accepted by CVPR 2024!
+
+- Jan 2024: Our papers, **Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model**([paper](https://openreview.net/forum?id=ezscMer8L0)) and **Consistent Video-to-Video Transfer Using Synthetic Dataset**([paper](https://openreview.net/forum?id=IoKRezZMxF)), are accepted by ICLR 2024! Besides, our paper **Graph Machine Learning through the Lens of Bilevel Optimization**([paper](https://arxiv.org/abs/2403.04763)) is accepted by AISTATS 2024!
 
 - Sep 2023: Our paper **Compatible Transformer for Irregularly Sampled Multivariate Time Series**([paper](https://arxiv.org/abs/2310.11022), [code](https://github.com/MediaBrain-SJTU/CoFormer)) is accepted by ICDM 2023!
 
 - Jul 2023: We have four papers, **Unsupervised Open-Vocabulary Object Localization in Videos**([paper](https://arxiv.org/abs/2309.09858)), **Object-centric Multiple Object Tracking**([paper](https://arxiv.org/abs/2309.00233), [code](https://github.com/amazon-science/object-centric-multiple-object-tracking)), **Coarse-to-Fine Amodal Segmentation with Shape Prior**,([paper](https://arxiv.org/abs/2308.16825), [code](https://github.com/JianxGao/C2F-Seg)), and **Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-centric Representation**([paper](https://arxiv.org/abs/2309.13248), [code](https://github.com/kfan21/EoRaS)), accepted by ICCV 2023!
-
-- May 2023: Our paper **LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation**([paper](https://arxiv.org/abs/2302.08908), [code](https://github.com/cplusx/layout_diffuse)) is accepted by the AI4CC workshop in CVPR 2023!
 
 # Publications
 
@@ -38,11 +38,8 @@ I maintained/created the following R package on CRAN:
 
 # Work Experience
 
-- **Applied Scientist**, Amazon Web Services, Feb 2018 - Present
-- **Embedded Software Developer**, Fortinet, Nov 2016 - Oct 2017
-- **Bioinformatician Intern**, Contextual Genomics, Apr 2016 - Jul 2016
-- **Data Scientist**, Supstat Inc, Mar 2014 - Aug 2014
-- **Algorithm Engineer Intern**, Douban, Jul 2013 - Oct 2013
+- **Senior Applied Scientist**, Amazon Web Services, 2018 - Present
+- **Embedded Software Developer**, Fortinet, 2016 - 2017
 
 # Education
 
