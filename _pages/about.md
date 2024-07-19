@@ -12,7 +12,7 @@ I'm currently a Senior Applied Scientist in AWS Shanghai AI Lab. I worked for AW
 
 # News
 
-- May 2024: Our paper, **CaMML: Context-Aware Multimodal Learner for Large Model**([paper](https://arxiv.org/abs/2401.03149)) is accepted by ACL 2024 Main Conference!
+- May 2024: Our paper, **CaMML: Context-Aware Multimodal Learner for Large Model**([paper](https://arxiv.org/abs/2401.03149)) is accepted by ACL 2024 Main Conference as an **Oral**!
 
 - Apr 2024: Our paper, **Hallucination of Multimodal Large Language Models: A Survey**([[paper](https://arxiv.org/abs/2404.18930), [repo](https://github.com/showlab/awesome-mllm-hallucination)) is released on Arxiv!
 
