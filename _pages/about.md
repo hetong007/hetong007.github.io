@@ -12,6 +12,10 @@ I'm currently a Senior Applied Scientist in AWS Shanghai AI Lab. I worked for AW
 
 # News
 
+- Sep 2024: We have 4 papers, **RAGChecker: A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation**([paper](https://arxiv.org/pdf/2408.08067), [repo](https://github.com/amazon-science/RAGChecker)), **Unified Lexical Representation for Interpretable Visual-Language Alignment**([paper](https://arxiv.org/pdf/2407.17827)), **Rethinking The Training And Evaluation of Rich-Context Layout-to-Image Generation**([paper](https://arxiv.org/pdf/2409.04847)), and **One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos**, accepted by NeurIPS 2024!
+
+- Jun 2024: Our paper, **New Desiderata for Direct Preference Optimization**([paper](https://arxiv.org/pdf/2407.09072)) is accepted by ICML 2024 Workshop on Models of Human Feedback for AI Alignment!
+
 - May 2024: Our paper, **CaMML: Context-Aware Multimodal Learner for Large Model**([paper](https://arxiv.org/abs/2401.03149)) is accepted by ACL 2024 Main Conference as an **Oral**, and has won **Area Chair Awards**!
 
 - Apr 2024: Our paper, **Hallucination of Multimodal Large Language Models: A Survey**([[paper](https://arxiv.org/abs/2404.18930), [repo](https://github.com/showlab/awesome-mllm-hallucination)) is released on Arxiv!
@@ -19,10 +23,6 @@ I'm currently a Senior Applied Scientist in AWS Shanghai AI Lab. I worked for AW
 - Feb 2024: Our papers, **Adaptive Slot Attention: Object Discovery with Dynamic Slot Number**([paper](https://openreview.net/forum?id=EaLfdBPlIh)) and **Learning for Transductive Threshold Calibration in Open-World Recognition**([paper](https://openreview.net/forum?id=ID1aMR5U8v)) are accepted by CVPR 2024!
 
 - Jan 2024: Our papers, **Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model**([paper](https://openreview.net/forum?id=ezscMer8L0)) and **Consistent Video-to-Video Transfer Using Synthetic Dataset**([paper](https://openreview.net/forum?id=IoKRezZMxF)), are accepted by ICLR 2024! Besides, our paper **BloomGML: Graph Machine Learning through the Lens of Bilevel Optimization**([paper](https://arxiv.org/abs/2403.04763)) is accepted by AISTATS 2024!
-
-- Sep 2023: Our paper **Compatible Transformer for Irregularly Sampled Multivariate Time Series**([paper](https://arxiv.org/abs/2310.11022), [code](https://github.com/MediaBrain-SJTU/CoFormer)) is accepted by ICDM 2023!
-
-- Jul 2023: We have four papers, **Unsupervised Open-Vocabulary Object Localization in Videos**([paper](https://arxiv.org/abs/2309.09858)), **Object-centric Multiple Object Tracking**([paper](https://arxiv.org/abs/2309.00233), [code](https://github.com/amazon-science/object-centric-multiple-object-tracking)), **Coarse-to-Fine Amodal Segmentation with Shape Prior**,([paper](https://arxiv.org/abs/2308.16825), [code](https://github.com/JianxGao/C2F-Seg)), and **Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-centric Representation**([paper](https://arxiv.org/abs/2309.13248), [code](https://github.com/kfan21/EoRaS)), accepted by ICCV 2023!
 
 # Publications
 
