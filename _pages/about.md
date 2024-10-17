@@ -12,7 +12,7 @@ I'm currently a Senior Applied Scientist in AWS Shanghai AI Lab. I worked for AW
 
 # News
 
-- Sep 2024: We have 4 papers, **RAGChecker: A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation**([paper](https://arxiv.org/pdf/2408.08067), [repo](https://github.com/amazon-science/RAGChecker)), **Unified Lexical Representation for Interpretable Visual-Language Alignment**([paper](https://arxiv.org/pdf/2407.17827)), **Rethinking The Training And Evaluation of Rich-Context Layout-to-Image Generation**([paper](https://arxiv.org/pdf/2409.04847)), and **One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos**, accepted by NeurIPS 2024!
+- Sep 2024: We have 4 papers, **RAGChecker: A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation**([paper](https://arxiv.org/pdf/2408.08067), [repo](https://github.com/amazon-science/RAGChecker)), **Unified Lexical Representation for Interpretable Visual-Language Alignment**([paper](https://arxiv.org/pdf/2407.17827)), **Rethinking The Training And Evaluation of Rich-Context Layout-to-Image Generation**([paper](https://arxiv.org/pdf/2409.04847)), and **One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos**([paper](https://arxiv.org/pdf/2409.19603)), accepted by NeurIPS 2024!
 
 - Jun 2024: Our paper, **New Desiderata for Direct Preference Optimization**([paper](https://arxiv.org/pdf/2407.09072)) is accepted by ICML 2024 Workshop on Models of Human Feedback for AI Alignment!
 
