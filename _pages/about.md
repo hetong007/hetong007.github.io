@@ -12,6 +12,8 @@ I'm currently a Senior Applied Scientist in AWS Shanghai AI Lab. I worked for AW
 
 # News
 
+- May 2025: Our papers, **Sparse Autoencoders, Again?** and **Explicit Preference Optimization: No Need for an Implicit Reward Model** are accepted by ICML 2025!
+
 - Jan 2025: A few acceptances: **Bridging Information Asymmetry in Text-video Retrieval: A Data-centric Approach**([paper](https://openreview.net/forum?id=Tn6lrFbiP4)) has been accepted by ICLR 2025, **VideoSAM: Open-World Video Segmentation** has been accepted by ICRA 2025, and **Common Learning Constraints Alter Interpretations of Direct Preference Optimization** has been accepted by AISTATS 2025!
 
 - Sep 2024: We have 4 papers, **RAGChecker: A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation**([paper](https://arxiv.org/pdf/2408.08067), [repo](https://github.com/amazon-science/RAGChecker)), **Unified Lexical Representation for Interpretable Visual-Language Alignment**([paper](https://arxiv.org/pdf/2407.17827), [repo](https://github.com/Clementine24/LexVLA)), **Rethinking The Training And Evaluation of Rich-Context Layout-to-Image Generation**([paper](https://arxiv.org/pdf/2409.04847), [repo](https://github.com/cplusx/rich_context_L2I/tree/main)), and **One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos**([paper](https://arxiv.org/pdf/2409.19603), [repo](https://github.com/showlab/VideoLISA)), accepted by NeurIPS 2024!
@@ -19,10 +21,6 @@ I'm currently a Senior Applied Scientist in AWS Shanghai AI Lab. I worked for AW
 - Jun 2024: Our paper, **New Desiderata for Direct Preference Optimization**([paper](https://arxiv.org/pdf/2407.09072)) is accepted by ICML 2024 Workshop on Models of Human Feedback for AI Alignment!
 
 - May 2024: Our paper, **CaMML: Context-Aware Multimodal Learner for Large Model**([paper](https://arxiv.org/abs/2401.03149), [repo](https://github.com/amazon-science/camml)) is accepted by ACL 2024 Main Conference as an **Oral**, and has won **Area Chair Awards**!
-
-- Apr 2024: Our paper, **Hallucination of Multimodal Large Language Models: A Survey**([paper](https://arxiv.org/abs/2404.18930), [repo](https://github.com/showlab/awesome-mllm-hallucination)) is released on Arxiv!
-
-- Feb 2024: Our papers, **Adaptive Slot Attention: Object Discovery with Dynamic Slot Number**([paper](https://openreview.net/forum?id=EaLfdBPlIh), [repo](https://github.com/amazon-science/AdaSlot)) and **Learning for Transductive Threshold Calibration in Open-World Recognition**([paper](https://openreview.net/forum?id=ID1aMR5U8v)) are accepted by CVPR 2024!
 
 # Publications
 
