@@ -12,6 +12,8 @@ I'm currently a Senior Applied Scientist in AWS Shanghai AI Lab. I worked for AW
 
 # News
 
+- Jul 2025: Our Lab has been laid-off, thus I am on the job market for opportunities in Shanghai. Please let me know if you are interested in a chat :)
+
 - May 2025: Our papers, **Sparse Autoencoders, Again?** and **Explicit Preference Optimization: No Need for an Implicit Reward Model** are accepted by ICML 2025!
 
 - Jan 2025: A few acceptances: **Bridging Information Asymmetry in Text-video Retrieval: A Data-centric Approach**([paper](https://openreview.net/forum?id=Tn6lrFbiP4)) has been accepted by ICLR 2025, **VideoSAM: Open-World Video Segmentation**([paper](https://arxiv.org/abs/2410.08781)) has been accepted by ICRA 2025, and **Common Learning Constraints Alter Interpretations of Direct Preference Optimization**([paper](https://openreview.net/forum?id=UlrAxDAYqE)) has been accepted by AISTATS 2025!
