@@ -12,7 +12,7 @@ I'm currently a Senior Applied Scientist in AWS Shanghai AI Lab. I worked for AW
 
 # News
 
-- Jul 2025: Our Lab has been laid-off, thus I am on the job market for opportunities in Shanghai. Please let me know if you are interested in a chat :)
+- Jul 2025: Our Lab has been laid-off, thus I am on the job market for opportunities in Shanghai. Please let me know (not through phonecall please) if you are interested in a chat :)
 
 - May 2025: Our papers, **Sparse Autoencoders, Again?** and **Explicit Preference Optimization: No Need for an Implicit Reward Model** are accepted by ICML 2025!
 
@@ -50,7 +50,7 @@ I maintained/created the following R package on CRAN:
 
 # Selected Awards
 
-- [John M. Chambers Statistical Software Award](http://stat-computing.org/awards/jmc/winners.html), ASA, 2016
+- [John M. Chambers Statistical Software Award](https://community.amstat.org/jointscsg-section/awards/john-m-chambers), ASA, 2016
 - [Special High Energy Physics meets Machine Learning Award](https://atlas.cern/updates/atlas-news/machine-learning-wins-higgs-challenge), CERN, 2014
 
 # Trivia
