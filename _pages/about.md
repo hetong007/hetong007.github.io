@@ -12,7 +12,7 @@ I'm currently a Senior Applied Scientist in AWS Shanghai AI Lab. I worked for AW
 
 # News
 
-- Jul 2025: Our Lab has been laid-off, thus I am on the job market for opportunities in Shanghai. Please let me know (not through phonecall please) if you are interested in a chat :)
+- Jul 2025: Our Lab has been laid-off, thus me and my team is on the job market for opportunities in Shanghai. Please let me know (not through phonecall please) if you are interested in a chat :)
 
 - May 2025: Our papers, **Sparse Autoencoders, Again?** and **Explicit Preference Optimization: No Need for an Implicit Reward Model** are accepted by ICML 2025!
 
